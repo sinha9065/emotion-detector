@@ -2,6 +2,8 @@
 
 A tool that analyzes the emotional tone of any text using a real, pretrained deep learning model — no API key required. Speak or type your feelings, hear the result spoken back to you, track your mood over time, and see exactly which words drove the model's decision.
 
+**Live Demo:**= [https://emotion-detector-nrypl9ue7v3kxbcz7ar9pu.streamlit.app/]
+
 ## Features
 - Detects 6 emotions from text: Joy, Sadness, Anger, Fear, Love, Surprise
 - **Voice input** — speak your feelings instead of typing, just like a voice search
