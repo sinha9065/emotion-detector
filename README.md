@@ -1,6 +1,6 @@
 # 🧠 Emotion Detector — AI-Powered Text Emotion Analysis
 
-A tool that analyzes the emotional tone of any text using a real, pretrained deep learning model — no API key required. Speak or type your feelings, hear the result spoken back to you, track your mood over time, and see exactly which words drove the model's decision.
+A tool that analyzes the emotional tone of any written text using a real, pretrained deep learning model — no API key required. Speak or type your feelings, hear the result spoken back to you, track your mood over time, and see exactly which words drove the model's decision.
 
 **Live Demo:**= [https://emotion-detector-nrypl9ue7v3kxbcz7ar9pu.streamlit.app/]
 
